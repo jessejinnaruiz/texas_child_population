@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+"""
+This script contains code used by the following jupytr notebooks or python scripts:
+1. tx_cps_analysis.ipynb
+2. acquire.py
+"""
 # ===========
 # ENVIRONMENT
 # ===========

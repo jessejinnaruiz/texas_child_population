@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.txt
+*.csv
+env.py
+*.xlsx
+*.twb
+*.twbr

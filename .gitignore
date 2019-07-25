@@ -5,3 +5,4 @@ env.py
 *.xlsx
 *.twb
 *.twbr
+__pycache__/

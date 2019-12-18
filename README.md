@@ -1,4 +1,4 @@
-# Texas Children Population Analysis
+# Texas Child Population Analysis
 ### Purpose
 <p>This project aims to predict/forecast and to visualize the change in the population of children in Texas and to examine its relationship to Department of Family Protective Services cases involving children under 18 yo.</p>
 

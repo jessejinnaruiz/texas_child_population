@@ -7,7 +7,7 @@
 ### Data
 <p>
    Data used in this project includes US Census data and DFPS data. These sources can be viewed online:
-<li><a href='https://www.openintro.org/stat/data/cc.php'>US Census Data</a> from <a href='https://www.openintro.org/download.php?file=analysis-county_census&referrer=/stat/extras.php'>a study done</a> by OpenIntro Statistics
+<li><a href='https://openintrostat.github.io/usdata/'>US Census Data</a> from <a href='https://www.openintro.org/download.php?file=analysis-county_census&referrer=/stat/extras.php'>a study done</a> by OpenIntro Statistics
 <li><a href='https://data.texas.gov/Social-Services/CPS-1-1-Texas-Child-Population-ages-0-17-by-County/x5xb-idr6'>Texas Child Population (ages 0-17) by County - FY08- FY18</a>
 <li><a href='https://data.texas.gov/Social-Services/CPS-7-3-Children-In-DFPS-Legal-Responsibility-by-C/929f-jvud'>Children In DFPS Legal Responsibility - by County and Fiscal Year FY08- FY18</a>
 </p>
